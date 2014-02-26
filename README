@@ -1,0 +1,2 @@
+Hopefully a better version of https://bitbucket.org/bkroeze/django-keyedcache
+...that works with Django 1.6+. It goes alongside my https://github.com/pjrobertson/dj-livesettings project
